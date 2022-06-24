@@ -1,6 +1,7 @@
 ## Overview
 ### EVSGL: An Enhanced View-specific Graph Learning Framework for Multiview Clustering, 2022
 
+## The code is soon sorted out and uploaded
 
 Here we provide the implementation of the EVSGL method , along with an execution example (on the Krogan-core dataset). The repository is organized as follows:
 + `data/` contains the six real-world dataset file;
@@ -21,8 +22,6 @@ Here we provide the implementation of the EVSGL method , along with an execution
 $ python run.py
 ```
 ## Architecture
-
-![image](https://github.com/aI-area/AdaPPI/blob/main/framework.png)
 
 
 ## Dataset
