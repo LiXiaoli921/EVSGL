@@ -26,7 +26,7 @@ $ python run.py
 
 
 ## Dataset
-Download from Google Drive: ![url](https://drive.google.com/drive/folders/1P3-9Kk1ohNrw7-uMjpL49Vp7JQppPQHn?usp=sharing)
+Download from Google Drive: [Dataset](https://drive.google.com/drive/folders/1P3-9Kk1ohNrw7-uMjpL49Vp7JQppPQHn?usp=sharing)
 details
 
 ## Dependencies
