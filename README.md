@@ -9,7 +9,7 @@ Here we provide the implementation of the EVSGL method as follow:
 + `model.py/` contains:
   + the implementation of the view-specific GMIM module;
   + the implementation of the view-wise attention fusion module;
-  + the implementation of the clustering-friendly fine-tune module;
+  + the implementation of the total EVSGL framework;
 + `layers.py/` contains:
   + the implementation of the GCN layer;
   + the implementation of the Cluster layer;
@@ -23,8 +23,10 @@ $ python run.py
 ```
 
 ## Dataset
+
+<img width="467" alt="image" src="https://user-images.githubusercontent.com/59239422/175770330-99a3ac67-c111-4df3-918e-ee325a27d804.png">
+
 Download from Google Drive: [Dataset](https://drive.google.com/drive/folders/1P3-9Kk1ohNrw7-uMjpL49Vp7JQppPQHn?usp=sharing)
-details
 
 ## Dependencies
 The script has been tested running under Python 3.6.13, with the following packages installed (along with their dependencies):
