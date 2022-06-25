@@ -1,9 +1,8 @@
 ## Overview
 ### EVSGL: An Enhanced View-specific Graph Learning Framework for Multiview Clustering, 2022
+Here we provide the implementation of the EVSGL method, which is submitted to IEEE TCYB.
 
-## The code is soon sorted out and uploaded
-
-Here we provide the implementation of the EVSGL method as follow:
+## Architecture
 + `data/` contains the six real-world dataset file;
 + `evoke.py` contains the Probabilitic graph generation module
 + `model.py/` contains:
