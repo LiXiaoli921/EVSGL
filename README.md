@@ -5,8 +5,8 @@ Here we provide the implementation of the EVSGL method, which is submitted to IE
 Note! : The source code will be collated and uploaded within a week.
 
 ## Architecture
-+ `data/` contains the six real-world dataset file;
-+ `evoke.py` contains the Probabilitic graph generation module
++ `data/` contains the six real-world dataset files;
++ `graph.py` contains the probabilitic graph generation module
 + `model.py/` contains:
   + the implementation of the view-specific GMIM module;
   + the implementation of the view-wise attention fusion module;
