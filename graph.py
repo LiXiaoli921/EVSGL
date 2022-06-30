@@ -1,8 +1,6 @@
 import torch
 import torch.nn.functional as F
 
-# references: https://github.com/hyzhang98/AdaGAE
-
 
 def consine_distance(x, y):
     x = x.t()
