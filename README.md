@@ -1,8 +1,7 @@
 ## Overview
-### EVSGL: An Enhanced View-specific Graph Learning Framework for Multiview Clustering, 2022
-Here we provide the implementation of the EVSGL method, which is submitted to IEEE TCYB.
+### EVSGL, 2022
+Here we provide the implementation of the EVSGL framework, which is submitted to IEEE TCYB.
 
-Note! : The source code will be collated and uploaded within a week.
 
 ## Architecture
 + `data/` contains the six real-world dataset files;
@@ -17,7 +16,7 @@ Note! : The source code will be collated and uploaded within a week.
 + `utils.py` contains data preprocessing of the six real-world dataset;
 + `metrics.py` contains four clustering metrics ACC, NMI, ARI and F1;
 + `run.py` training and validing the model;
-+ `parameters.py` contains parameters of different datasets; 
++ `parameters.py` contains parameters of different datasets; (update after the paper is accept)
 
 ```bash
 $ python run.py
@@ -41,14 +40,7 @@ The script has been tested running under Python 3.6.13, with the following packa
 
 
 ## References
-The source code of the baselines
-[MVGL](https://github.com/kunzhan/MVGL)
-[MCGC](https://github.com/kunzhan/MCGC)
-[GMC](https://github.com/cshaowang/gmc)
-[CGD](https://github.com/ChangTang/CGD)
-[O2MAC](https://github.com/googlebaba/WWW2020-O2MAC)
-[CDMGC](https://github.com/huangsd/CDMGC)
-[DGF](https://github.com/youweiliang/Multi-view\_Graph\_Learning)
+TODO
 
 ## License
 
