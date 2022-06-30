@@ -1,5 +1,11 @@
+'''
+@Create Time: 2021/8/17
+@Author : Yue Lin
+'''
+
 from __future__ import division
 from __future__ import print_function
+
 
 import warnings
 warnings.filterwarnings('ignore')
@@ -18,15 +24,14 @@ import torch.nn.functional as F
 from utils import *
 from metrics import *
 from graph import *
-from torch.optim import RMSprop
 import os
 
 os.environ['CUDA_VISIBLE_DEVICES'] = "0,1,2,3,4"
 device = torch.device('cuda' if torch.cuda.is_available else 'cpu')
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--gmim_epochs', type=int, default=10000, help='Number of GMIM epoch.')
-parser.add_argument('--fusion_epochs', type=int, default=10000, help='number of fusion epoch')
+parser.add_argument('--gmim_epochs', type=int, default=20000, help='Number of GMIM epoch.')
+parser.add_argument('--fusion_epochs', type=int, default=20000, help='number of fusion epoch')
 parser.add_argument('--finetune_epochs', type=int, default=300, help='number of fine-tune epoch')
 parser.add_argument('--hidden1', type=int, default=512, help='Number of units in view-specific encoder layer 1.')
 parser.add_argument('--hidden2', type=int, default=256, help='Number of units in view-specific encoder layer 2.')
