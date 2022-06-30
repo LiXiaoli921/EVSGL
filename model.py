@@ -107,8 +107,8 @@ class EVSGL(nn.Module):
         for i in range(self.numView):
             norm_theta_graph += torch.exp(self.W_g[i])
 
-        fusedA = (torch.exp(self.W_g[0]) / norm_theta_graph) * adjs[0]
-        for i in range(1, self.numView):
+        fusedA = 0
+        for i in range(self.numView):
             fusedA = fusedA + (torch.exp(self.W_g[i]) / norm_theta_graph) * adjs[i]
 
         # combine embedding with concat or sum
@@ -124,8 +124,8 @@ class EVSGL(nn.Module):
             combinedH = torch.cat(fusedH, 1)
         else:
             #others(images)
-            combinedH = (torch.exp(self.W_h[0]) / norm_theta_fea) * embs[0]
-            for i in range(1, self.numView):
+            combinedH = 0
+            for i in range(self.numView):
                 combinedH = combinedH + (torch.exp(self.W_h[i]) / norm_theta_fea) * embs[i]
 
         fusion_hidden = self.ConsistentEncoder[0](combinedH, fusedA)
