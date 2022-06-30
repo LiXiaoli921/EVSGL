@@ -3,6 +3,9 @@
 Here we provide the implementation of the EVSGL framework, which is submitted to IEEE TCYB.
 
 
+Complete parameters and experiment datasets will be uploaded after the paper is accepted.
+
+
 ```bash
 $ python run.py
 ```
