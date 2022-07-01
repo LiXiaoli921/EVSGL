@@ -72,7 +72,7 @@ def Run_EVSGL(args):
     torch.cuda.empty_cache()
 
     data_type = "image"
-    if args.dataset_str == "bbcsport" or args.dataset_str == "CiteSeer":
+    if args.dataset_str == "bbcsport":
         data_type = "text"
     else:
         data_type = "image"
