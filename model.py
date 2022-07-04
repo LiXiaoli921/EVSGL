@@ -117,7 +117,7 @@ class EVSGL(nn.Module):
             norm_theta_fea += torch.exp(self.W_h[i])
 
 
-        if self.data_type == "text": #bbcsport or citeseer
+        if self.data_type == "text": #bbcsport
             fusedH = []
             for i in range(self.numView):
                 fusedH.append(embs[i] * (torch.exp(self.W_h[i]) / norm_theta_fea))
