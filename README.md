@@ -1,6 +1,6 @@
 ## Overview
 ### EVSGL, 2022
-Here we provide the implementation of the EVSGL framework, which is submitted to IEEE TCYB.
+Here we provide the implementation of the EVSGL framework.
 
 
 Complete parameters and experiment datasets will be uploaded after the paper is accepted.
