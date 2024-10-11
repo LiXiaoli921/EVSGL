@@ -1,0 +1,121 @@
+﻿submitter_id,ajcc_pathologic_stage,days_to_last_follow_up,age_at_diagnosis,primary_diagnosis,prior_malignancy,ajcc_staging_system_edition,ajcc_pathologic_t,morphology,ajcc_pathologic_n,ajcc_pathologic_m,vital_status,age_at_index,treatments_radiation_treatment_or_therapy
+TCGA-AR-A1AX,Stage I,2629,23507,"Infiltrating duct carcinoma, NOS",no,6th,T1,8500/3,N0,M0,Alive,64,yes
+TCGA-AO-A12F,Stage IIA,1842,13409,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N0 (i-),M0,Alive,36,yes
+TCGA-BH-A0AZ,Stage IIIA,1919,17465,"Infiltrating duct carcinoma, NOS",no,6th,T3,8500/3,N1a,cM0 (i+),Alive,47,no
+TCGA-AO-A12G,Stage IIA,1639,27705,Pleomorphic carcinoma,no,6th,T2,8022/3,N0 (i+),M0,Alive,75,no
+TCGA-BH-A0B3,Stage IIB,1203,19479,"Infiltrating duct carcinoma, NOS",no,NA,T2,8500/3,N1a,M0,Alive,53,yes
+TCGA-E2-A15J,Stage I,1640,18771,"Infiltrating duct carcinoma, NOS",no,6th,T1c,8500/3,N0,M0,Alive,51,no
+TCGA-BH-A0H7,Stage IIIA,702,23972,"Infiltrating duct carcinoma, NOS",no,NA,T1c,8500/3,N2a,M0,Alive,65,yes
+TCGA-AO-A03M,Stage I,1866,10616,"Infiltrating duct carcinoma, NOS",no,6th,T1c,8500/3,N0 (i-),M0,Alive,29,no
+TCGA-BH-A0H9,Stage IIA,1247,25289,"Infiltrating duct carcinoma, NOS",no,NA,T2,8500/3,N0 (i-),M0,Alive,69,yes
+TCGA-E2-A15E,Stage IIA,630,14894,"Infiltrating duct carcinoma, NOS",no,6th,T1c,8500/3,N1a,M0,Alive,40,yes
+TCGA-AR-A24S,Stage I,2976,22587,"Infiltrating duct carcinoma, NOS",no,6th,T1,8500/3,N0,M0,Alive,61,yes
+TCGA-E2-A15K,Stage IIB,275,21514,"Infiltrating duct carcinoma, NOS",no,7th,T2,8500/3,N1a,M0,Alive,58,yes
+TCGA-BH-A0BJ,Stage IIB,660,15027,"Infiltrating duct carcinoma, NOS",no,NA,T2,8500/3,N1a,M0,Alive,41,yes
+TCGA-E2-A159,Stage IIA,762,18621,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N0,M0,Alive,50,yes
+TCGA-BH-A0W5,Stage IIA,1288,28304,"Infiltrating duct carcinoma, NOS",no,6th,T1c,8500/3,N1a,M0,Alive,77,yes
+TCGA-BH-A0HI,Stage IA,620,28644,"Infiltrating duct carcinoma, NOS",no,NA,T1c,8500/3,N0 (i-),M0,Alive,78,yes
+TCGA-E2-A14T,Stage IIA,2311,19237,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N0,M0,Alive,52,no
+TCGA-E2-A1B6,Stage IIA,867,16370,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N0,M0,Alive,44,no
+TCGA-AO-A0JI,Stage IIA,1528,20694,"Infiltrating duct carcinoma, NOS",no,NA,T1c,8500/3,N1,M0,Alive,56,no
+TCGA-E2-A14P,Stage IIIC,1246,28923,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N3,M0,Alive,79,yes
+TCGA-BH-A0HA,Stage I,1611,11379,"Infiltrating duct carcinoma, NOS",no,6th,T1c,8500/3,N0 (i-),M0,Alive,31,no
+TCGA-BH-A202,Stage II,795,22052,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N0,M0,Alive,60,yes
+TCGA-BH-A0RX,Stage IIA,170,21857,"Infiltrating duct carcinoma, NOS",no,NA,T2,8500/3,N0 (i-),M0,Alive,59,yes
+TCGA-E2-A15F,Stage I,658,23660,"Infiltrating duct carcinoma, NOS",no,6th,T1c,8500/3,N0,M0,Alive,64,yes
+TCGA-E2-A109,Stage IIA,1417,23521,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N0 (i-),M0,Alive,64,no
+TCGA-E2-A1LG,Stage IIA,1523,18492,"Lobular carcinoma, NOS",yes,7th,T2,8520/3,N0,M0,Alive,50,no
+TCGA-BH-A0B6,Stage I,2483,17346,"Infiltrating duct carcinoma, NOS",yes,6th,T1c,8500/3,N0,M0,Alive,47,yes
+TCGA-AR-A1AN,Stage IIA,2920,16974,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N0,M0,Alive,46,yes
+TCGA-AR-A24X,Stage IIA,3004,19030,Infiltrating duct and lobular carcinoma,no,6th,T2,8522/3,N0,M0,Alive,52,no
+TCGA-BH-A0DZ,Stage IIB,495,15980,"Infiltrating duct carcinoma, NOS",no,NA,T2,8500/3,N1a,M0,Alive,43,no
+TCGA-E2-A150,Stage IIA,1935,17580,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N0,M0,Alive,48,yes
+TCGA-AO-A0JM,Stage IIB,2184,14653,"Infiltrating duct carcinoma, NOS",no,NA,T2,8500/3,N1,M0,Alive,40,yes
+TCGA-BH-A0DH,Stage IIB,1156,23366,"Infiltrating duct carcinoma, NOS",no,NA,T2,8500/3,N1a,M0,Alive,63,yes
+TCGA-BH-A0BG,Stage I,1871,26988,"Infiltrating duct carcinoma, NOS",no,6th,T1,8500/3,N0,M0,Alive,73,yes
+TCGA-E2-A15H,Stage IIA,393,13985,"Infiltrating duct carcinoma, NOS",no,6th,T1c,8500/3,N1mi,M0,Alive,38,no
+TCGA-AO-A12D,Stage IIA,2515,15774,"Infiltrating duct carcinoma, NOS",no,6th,T1c,8500/3,N1a,M0,Alive,43,yes
+TCGA-BH-A28Q,Stage IIB,1119,16882,"Lobular carcinoma, NOS",no,7th,T2,8520/3,N1a,M0,Alive,46,no
+TCGA-E2-A15L,Stage IIA,626,23845,"Lobular carcinoma, NOS",no,7th,T2,8520/3,N0,M0,Alive,65,no
+TCGA-BH-A0HX,Stage IIB,829,19900,"Infiltrating duct carcinoma, NOS",no,NA,T2,8500/3,N1a,M0,Alive,54,no
+TCGA-E2-A108,Stage IIIA,837,23530,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N2a,M0,Alive,64,yes
+TCGA-E2-A15M,Stage IIA,235,24266,"Lobular carcinoma, NOS",no,7th,T2,8520/3,N0,M0,Dead,66,yes
+TCGA-E2-A1L9,Stage IIA,598,14868,"Infiltrating duct carcinoma, NOS",no,6th,T1c,8500/3,N1mi,M0,Alive,40,yes
+TCGA-BH-A0GZ,Stage IIA,328,22714,"Infiltrating duct carcinoma, NOS",no,NA,T1c,8500/3,N1a,M0,Alive,62,yes
+TCGA-E2-A1IE,Stage IIB,2362,22510,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N1,M0,Alive,61,yes
+TCGA-BH-A0E0,Stage IIIC,134,14175,"Infiltrating duct carcinoma, NOS",no,NA,T3,8500/3,N3a,M0,Alive,38,yes
+TCGA-BH-A0EI,Stage IIA,1926,18741,"Infiltrating duct carcinoma, NOS",no,6th,T1c,8500/3,N1a,M0,Alive,51,yes
+TCGA-AO-A12E,Stage IIB,2142,18721,"Lobular carcinoma, NOS",no,6th,T3,8520/3,N0 (i+),M0,Alive,51,yes
+TCGA-BH-A0W3,Stage IIA,728,21369,"Infiltrating duct carcinoma, NOS",no,7th,T1c,8500/3,N1a,M0,Alive,58,yes
+TCGA-BH-A201,Stage IA,856,23423,"Infiltrating duct carcinoma, NOS",no,7th,T1,8500/3,N0,M0,Alive,64,yes
+TCGA-BH-A0DI,Stage IIB,912,23327,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N1a,M0,Alive,63,yes
+TCGA-E2-A14V,Stage IIB,1042,19643,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N1,M0,Alive,53,yes
+TCGA-BH-A0DK,Stage IIA,423,18237,"Infiltrating duct carcinoma, NOS",no,NA,T2,8500/3,N0 (i-),M0,Alive,49,no
+TCGA-E2-A1IN,Stage I,675,22199,"Infiltrating duct carcinoma, NOS",no,7th,T1c,8500/3,N0,M0,Alive,60,yes
+TCGA-BH-A0DE,Stage IIA,2372,22656,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N0,M0,Alive,62,yes
+TCGA-E2-A1L7,Stage IIIA,1836,14854,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N2,M0,Alive,40,yes
+TCGA-E2-A10F,Stage IIA,878,17257,"Lobular carcinoma, NOS",no,6th,T2,8520/3,N0 (i-),M0,Alive,47,yes
+TCGA-E2-A1B1,Stage IIB,2653,16603,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N1,M0,Alive,45,yes
+TCGA-AO-A03V,Stage I,1351,15284,"Infiltrating duct carcinoma, NOS",no,6th,T1c,8500/3,N0 (i-),M0,Alive,41,no
+TCGA-BH-A0BM,Stage IIB,1876,20049,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N1a,M0,Alive,54,no
+TCGA-E2-A15I,Stage IIA,1692,16163,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N0,M0,Alive,44,no
+TCGA-BH-A0H3,Stage I,1928,17152,"Infiltrating duct carcinoma, NOS",no,6th,T1c,8500/3,N0,M0,Alive,46,yes
+TCGA-E2-A15A,Stage IIIC,710,16750,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N3a,M0,Alive,45,yes
+TCGA-BH-A0DV,Stage IIIA,2064,19781,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N2a,M0,Alive,54,yes
+TCGA-BH-A18I,Stage IIA,1093,19489,"Infiltrating duct carcinoma, NOS",no,7th,T1c,8500/3,N1a,cM0 (i+),Alive,53,no
+TCGA-BH-A0E2,Stage IIIA,435,18152,"Infiltrating duct carcinoma, NOS",no,NA,T2,8500/3,N2a,M0,Alive,49,no
+TCGA-BH-A18H,Stage IA,652,23065,"Infiltrating duct carcinoma, NOS",yes,7th,T1b,8500/3,N0,M0,Alive,63,yes
+TCGA-AR-A1AQ,Stage IIA,3021,18109,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N0,M0,Alive,49,yes
+TCGA-BH-A0H6,Stage I,747,30125,"Infiltrating duct carcinoma, NOS",no,NA,T1b,8500/3,NX,M0,Alive,82,yes
+TCGA-BH-A0B1,Stage IIB,1148,24315,"Infiltrating duct carcinoma, NOS",no,NA,T2,8500/3,N1a,M0,Alive,66,yes
+TCGA-E2-A1IK,Stage IIA,1800,26052,"Infiltrating duct carcinoma, NOS",no,6th,T1c,8500/3,N1mi,M0,Alive,71,no
+TCGA-BH-A0AW,Stage IIA,622,20468,"Infiltrating duct carcinoma, NOS",no,NA,T1c,8500/3,N1a,M0,Alive,56,yes
+TCGA-E2-A1B5,Stage IIA,984,17039,"Lobular carcinoma, NOS",no,6th,T2,8520/3,N0,M0,Alive,46,yes
+TCGA-AO-A0J9,Stage IIIC,1613,22642,"Lobular carcinoma, NOS",no,NA,T2,8520/3,N3,M0,Alive,61,yes
+TCGA-BH-A0BQ,Stage I,2255,14494,"Infiltrating duct carcinoma, NOS",no,6th,T1c,8500/3,N0,M0,Alive,39,no
+TCGA-E2-A1IG,Stage IIB,2140,16757,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N1mi,M0,Alive,45,yes
+TCGA-E2-A14S,Stage I,1009,23878,"Infiltrating duct carcinoma, NOS",no,6th,T1c,8500/3,N0,M0,Alive,65,yes
+TCGA-BH-A0E1,Stage IIB,477,19192,"Infiltrating duct carcinoma, NOS",no,NA,T2,8500/3,N1,M0,Alive,52,no
+TCGA-BH-A0E9,Stage IIB,2489,19415,"Lobular carcinoma, NOS",no,6th,T2,8520/3,N1a,M0,Alive,53,yes
+TCGA-BH-A0GY,Stage IIA,923,24493,"Infiltrating duct carcinoma, NOS",no,NA,T2,8500/3,N1,M0,Alive,67,yes
+TCGA-BH-A0HY,Stage I,1545,22179,"Infiltrating duct carcinoma, NOS",no,6th,T1c,8500/3,N0,M0,Alive,60,no
+TCGA-BH-A0B5,Stage IIIA,2136,14920,"Lobular carcinoma, NOS",no,6th,T2,8520/3,N2a,M0,Alive,40,yes
+TCGA-E2-A14Y,Stage IIA,2109,13004,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N0,M0,Alive,35,no
+TCGA-BH-A0BT,Stage IIA,2365,20625,"Infiltrating duct carcinoma, NOS",no,6th,T1c,8500/3,N1mi,M0,Alive,56,yes
+TCGA-BH-A0DT,Stage IIA,2403,15078,"Infiltrating duct carcinoma, NOS",no,6th,T1c,8500/3,N1a,M0,Alive,41,yes
+TCGA-BH-A0C0,Stage IIA,1270,23006,"Infiltrating duct carcinoma, NOS",no,NA,T1c,8500/3,N1a,M0,Alive,62,yes
+TCGA-E2-A1IJ,Stage I,865,20956,"Lobular carcinoma, NOS",no,6th,T1c,8520/3,N0,M0,Alive,57,yes
+TCGA-BH-A18F,Stage IIA,1001,18594,"Infiltrating duct carcinoma, NOS",no,7th,T2,8500/3,N0,M0,Alive,50,yes
+TCGA-BH-A0DX,Stage I,2156,22833,"Infiltrating duct carcinoma, NOS",no,6th,T1b,8500/3,N0,M0,Alive,62,yes
+TCGA-BH-A0DG,Stage IIA,2041,11204,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N0,M0,Alive,30,yes
+TCGA-E2-A1II,Stage I,1025,18788,"Infiltrating duct carcinoma, NOS",no,6th,T1c,8500/3,N0,M0,Alive,51,yes
+TCGA-E2-A14Q,Stage IIB,1163,18507,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N1mi,M0,Alive,50,no
+TCGA-EW-A1PA,Stage IIB,575,21837,"Infiltrating duct carcinoma, NOS",no,7th,T2,8500/3,N1a,M0,Alive,59,yes
+TCGA-EW-A1P4,Stage IIA,907,15989,"Medullary carcinoma, NOS",no,6th,T2,8510/3,N0 (i-),M0,Alive,43,yes
+TCGA-EW-A1P3,Stage IIA,1611,17637,"Infiltrating duct carcinoma, NOS",yes,6th,T2,8500/3,N0,MX,Alive,48,no
+TCGA-AO-A0J8,Stage IIA,680,22284,"Lobular carcinoma, NOS",no,NA,T2,8520/3,N0 (i+),M0,Alive,61,yes
+TCGA-EW-A2FS,Stage IIB,1604,15302,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N1mi,MX,Alive,41,yes
+TCGA-AR-A24R,Stage IIIA,3430,16642,"Infiltrating duct carcinoma, NOS",no,6th,T1,8500/3,N2,M0,Alive,45,yes
+TCGA-AO-A0JF,Stage IIA,1980,24923,"Infiltrating duct carcinoma, NOS",no,NA,T1c,8500/3,N1a,M0,Alive,68,yes
+TCGA-AR-A254,Stage IIIA,2605,18270,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N2,M0,Alive,50,yes
+TCGA-EW-A1IY,Stage I,258,14122,"Infiltrating duct carcinoma, NOS",no,6th,T1c,8500/3,N0,MX,Alive,38,no
+TCGA-EW-A1OY,Stage IIA,908,23266,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N0,MX,Alive,63,yes
+TCGA-OL-A5DA,Stage IIA,1783,22411,"Lobular carcinoma, NOS",no,6th,T2,8520/3,N0,MX,Alive,61,no
+TCGA-AO-A0JB,Stage IIIA,1542,18561,"Infiltrating duct carcinoma, NOS",no,NA,T3,8500/3,N1a,M0,Alive,50,yes
+TCGA-AR-A24U,Stage IIA,3128,17523,"Infiltrating duct carcinoma, NOS",no,6th,T1,8500/3,N1,M0,Alive,47,yes
+TCGA-E2-A107,Stage IIIA,1047,20065,"Lobular carcinoma, NOS",no,6th,T3,8520/3,N2a,M0,Alive,54,yes
+TCGA-OL-A5D8,Stage IIB,973,14853,"Infiltrating duct carcinoma, NOS",no,6th,T3,8500/3,N0,MX,Alive,40,yes
+TCGA-EW-A1P0,Stage IIB,1251,20107,Infiltrating duct mixed with other types of carcinoma,no,6th,T2,8523/3,N1b,MX,Alive,55,yes
+TCGA-AR-A24M,Stage IIIA,3660,14119,Infiltrating duct and lobular carcinoma,no,6th,T2,8522/3,N2,M0,Alive,38,yes
+TCGA-AO-A129,Stage IIB,3286,10898,"Infiltrating duct carcinoma, NOS",no,5th,T2,8500/3,N1a,M0,Alive,29,yes
+TCGA-EW-A3E8,Stage IIB,1035,21922,"Lobular carcinoma, NOS",no,7th,T3,8520/3,N0,MX,Alive,60,yes
+TCGA-AR-A24W,Stage IIB,1550,20123,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N1,M0,Alive,55,no
+TCGA-EW-A1IZ,Stage IIIA,554,19706,"Infiltrating duct carcinoma, NOS",no,7th,T2,8500/3,N2a,MX,Alive,53,yes
+TCGA-EW-A1OZ,Stage IIA,1229,20664,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N0 (i-),M0,Alive,56,no
+TCGA-EW-A2FR,Stage IIIC,1673,21628,"Infiltrating duct carcinoma, NOS",no,6th,T1b,8500/3,N3a,MX,Alive,59,yes
+TCGA-E2-A14X,Stage IIIA,972,20105,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N2,M0,Alive,55,yes
+TCGA-EW-A1J6,Stage I,875,25830,"Infiltrating duct carcinoma, NOS",no,6th,T1c,8500/3,N0 (i-),M0,Alive,70,no
+TCGA-E2-A105,Stage IIA,1308,28855,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N0 (i-),M0,Alive,79,yes
+TCGA-E2-A14N,Stage IIB,1434,13743,"Infiltrating duct carcinoma, NOS",no,6th,T2,8500/3,N1,M0,Alive,37,yes
+TCGA-E2-A152,Stage I,2128,20705,"Infiltrating duct carcinoma, NOS",no,6th,T1c,8500/3,N0,M0,Alive,56,no
+TCGA-BH-A0H5,Stage I,1620,16719,"Infiltrating duct carcinoma, NOS",no,6th,T1c,8500/3,N0 (i-),M0,Alive,45,no

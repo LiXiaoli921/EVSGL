@@ -117,6 +117,7 @@ def Run_EVSGL(args):
             # Topological mutual information maximization
             TMIM_Loss = norm * F.binary_cross_entropy_with_logits(recons_graph.view(-1), raw_adj.view(-1), pos_weight=pos_weight)
 
+
             total_loss = FMIM_Loss + lambda1*TMIM_Loss
 
             total_loss.backward()
